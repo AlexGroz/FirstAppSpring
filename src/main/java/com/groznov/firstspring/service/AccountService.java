@@ -1,6 +1,5 @@
 package com.groznov.firstspring.service;
 
-import com.groznov.firstspring.controller.dto.AccountResponseDTO;
 import com.groznov.firstspring.entity.Account;
 import com.groznov.firstspring.exception.AccountNotFoundException;
 import com.groznov.firstspring.repository.AccountRepository;
